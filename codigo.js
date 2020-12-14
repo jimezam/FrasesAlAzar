@@ -8,7 +8,9 @@ var frases = [
 ];
 
 $(document).ready(function() {
-    alert(generarFraseAlAzar());
+    var frase = generarFraseAlAzar();
+
+    $('#frase').text(frase);
 });
 
 function generarFraseAlAzar()
