@@ -11,7 +11,9 @@ var frases = [
     "Es ridículo vivir 100 años y sólo ser capaces de recordar 30 millones de bytes. O sea, menos que un compact disc. La condición humana se hace más obsoleta cada minuto",
     "¿Internet? ¿Todavía anda eso por ahí?",
     "La web es como una dominatriz. En todos los sitios que voy me encuentro pequeños botones ordenándome que me someta",
-    "Ahora que lo pienso, ya hay un millón de monos con máquinas de escribir y Usenet no es en absoluto como la obra de Shakespeare"
+    "Ahora que lo pienso, ya hay un millón de monos con máquinas de escribir y Usenet no es en absoluto como la obra de Shakespeare",
+    "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos",
+    "Por fin he entendido lo que significa 'upward compatible' (compatible hacia arriba). Significa que mantenemos todos nuestros viejos errores"
 ];
 
 $(document).ready(function() {
