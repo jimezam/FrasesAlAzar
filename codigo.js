@@ -8,7 +8,9 @@ var frases = [
     "Los ordenadores se hacen cada vez más inteligentes. Los científicos dicen que pronto ellos serán capaces de hablarnos (y con 'ellos' me refiero a los ordenadores, dudo mucho que los científicos sean capaces de hablarnos)",
     "He notado últimamente que el miedo paranoico hacia ordenadores inteligentes tomando el control del mundo ha desaparecido totalmente. Todo lo que puedo contar es que este hecho coincide con la aparición de MS-DOS",
     "Preguntarse cuándo los ordenadores podrán pensar es como preguntarse cuándo los submarinos podrán nadar",
-    "Es ridículo vivir 100 años y sólo ser capaces de recordar 30 millones de bytes. O sea, menos que un compact disc. La condición humana se hace más obsoleta cada minuto"    
+    "Es ridículo vivir 100 años y sólo ser capaces de recordar 30 millones de bytes. O sea, menos que un compact disc. La condición humana se hace más obsoleta cada minuto",
+    "La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos",
+    "Por fin he entendido lo que significa 'upward compatible' (compatible hacia arriba). Significa que mantenemos todos nuestros viejos errores"
 ];
 
 $(document).ready(function() {
