@@ -8,10 +8,12 @@ var frases = [
 ];
 
 $(document).ready(function() {
-    alert("hola muchachos");
+    alert(generarFraseAlAzar());
 });
 
 function generarFraseAlAzar()
 {
-    return frases[(int)(Math.random() * frases.length)];
+    var indice = parseInt(Math.random() * frases.length);
+
+    return frases[indice];
 }
