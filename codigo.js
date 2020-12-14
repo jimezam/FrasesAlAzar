@@ -8,6 +8,11 @@ var frases = [
 ];
 
 $(document).ready(function() {
+
+    $('#acerca_de').click(function() {
+        alert("Desarrollado por Jorge y su banda de amiguitos desarrolladores.");
+    });
+    
     var frase = generarFraseAlAzar();
 
     $('#frase').text(frase);
